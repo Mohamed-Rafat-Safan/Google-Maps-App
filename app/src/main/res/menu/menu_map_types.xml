@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/map_none"
+        android:icon="@android:drawable/ic_menu_mapmode"
+        android:title="None"
+        app:showAsAction="withText"/>
+
+
+    <item
+        android:id="@+id/map_normal"
+        android:icon="@android:drawable/ic_menu_mapmode"
+        android:title="Normal Map"
+        app:showAsAction="withText"/>
+
+    <item
+        android:id="@+id/map_satellite"
+        android:icon="@android:drawable/ic_menu_gallery"
+        android:title="Satellite Map"
+        app:showAsAction="withText"/>
+
+    <item
+        android:id="@+id/map_terrain"
+        android:icon="@android:drawable/ic_menu_compass"
+        android:title="Terrain Map"
+        app:showAsAction="withText"/>
+
+    <item
+        android:id="@+id/map_hybrid"
+        android:icon="@android:drawable/ic_menu_camera"
+        android:title="Hybrid Map"
+        app:showAsAction="withText"/>
+</menu>

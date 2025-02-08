@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Map App</string>
+
+
+    <string name="my_map_api_key">AIzaSyDlpVI0Mg9laZhqk_EkzJ9n4XMajuOUeoU</string>
+    <string name="get_current_location">Current Location</string>
+    <string name="search">Search here...</string>
+    <string name="search_location">Search Location</string>
+    <string name="google_map">Google Map</string>
+    <string name="change_map_type">Change Map Type</string>
+    <string name="google_map_track">Google Map Track</string>
+    <string name="get_direction">Get Direction</string>
+    <string name="enter_destination">Enter Destination</string>
+    <string name="enter_your_location">Enter Your Location</string>
+    <string name="display_track_on_map">Display Track On Map</string>
+</resources>

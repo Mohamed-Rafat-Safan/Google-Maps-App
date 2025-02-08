@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيق خريطة</string>
+
+
+    <string name="my_map_api_key">AIzaSyDlpVI0Mg9laZhqk_EkzJ9n4XMajuOUeoU</string>
+    <string name="get_current_location">المكان الحالي</string>
+    <string name="search">ابحث هنا...</string>>
+    <string name="search_location">بحث عن مكان</string>
+    <string name="google_map">خريطة جوجل</string>
+    <string name="change_map_type">تغيير نوع الخريطة</string>
+    <string name="google_map_track">مسار خريطة جوجل</string>
+    <string name="get_direction">احصل على الاتجاه</string>
+    <string name="enter_destination">أدخل الاتجاه</string>
+    <string name="enter_your_location">ادخل موقعك</string>
+    <string name="display_track_on_map">عرض المسار على الخريطة</string>
+</resources>
